@@ -1,0 +1,7 @@
+runtime/
+logs/
+*.exe
+*.zip
+*.tmp
+ui-preview.png
+preferences.xml
